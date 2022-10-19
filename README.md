@@ -1,4 +1,4 @@
-# Brikl backend engineer assignment
+# A simple Task List Application 
 
 ## Introducing the Alpha
 
